@@ -3,7 +3,7 @@ menu: nav
 permalink: /bio/
 ---
 
-## Richard Viidalepp
+## RV elust
 
 ![Richard Viidalepp 1931. aastal](/img/rv-1931.jpg)
 Richard Viidalepp 1931. aastal
