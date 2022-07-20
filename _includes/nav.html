@@ -1,0 +1,7 @@
+  {% for page in site.pages %}
+    {% if page.menu == 'nav' %}
+      {% if page.title %}
+        <a href="{{ page.url }}">{{ page.title }}&nbsp;&raquo;</a><br/>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
